@@ -3,7 +3,7 @@
 class Conexao {
 
 	private $host = 'localhost';
-	private $dbname = 'php_com_pdo';
+	private $dbname = 'php_con_pdo';
 	private $user = 'root';
 	private $pass = '';
 
